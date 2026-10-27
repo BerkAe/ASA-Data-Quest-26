@@ -1,2 +1,2 @@
-# Apps-for-fun
-Apps that i've created just to pass time or learn/try new stuff.
+# ASA DATA QUEST 2026
+Codes that was used during ASA dATA QUEST 2026
